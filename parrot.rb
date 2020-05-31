@@ -1,3 +1,3 @@
-phrase = parrot 
+phrase = {puts "parrot 
 puts expect phrase = ("Squawk!")
 end 
